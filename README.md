@@ -26,9 +26,9 @@ Attualmente mi sto focalizzando sulla progettazione di architetture dati scalabi
 
 ---
 
-## 🧠 Progetti in Evidenza
+##  Progetti in Evidenza
 
-* 🤖 **[Judge Agent](https://github.com/Mafuuuuuuuu/judge-agent):** Una piattaforma collaborativa di auditing AI. Mi occupo dello sviluppo dell'intero backend asincrono in FastAPI e dell'integrazione del core logico basato su LLM per la valutazione e il monitoraggio di altri agenti intelligenti.
+*  **[Judge Agent](https://github.com/Mafuuuuuuuu/judge-agent):** Una piattaforma collaborativa di auditing AI. Mi occupo dello sviluppo dell'intero backend asincrono in FastAPI e dell'integrazione del core logico basato su LLM per la valutazione e il monitoraggio di altri agenti intelligenti.
 
 ## 📫 Contatti
 * 💼 **LinkedIn:** www.linkedin.com/in/mahfuj-khan-758894371
