@@ -2,7 +2,7 @@
 
 Sono uno studente di **Data Analysis** presso l'**ITS INCOM Academy** e vivo a **Varese**. Ho una forte passione per l'ingegneria dei dati, l'ottimizzazione delle pipeline e l'applicazione di soluzioni basate sull'Intelligenza Artificiale nel mondo enterprise.
 
-Attualmente mi sto focalizzando sulla progettazione di architetture dati scalabili, pipeline ETL nel cloud e sullo sviluppo della logica di **AI Agent** complessi.
+Attualmente mi sto focalizzando sulla progettazione di architetture dati scalabili, pipeline ETL nel cloud.
 
 ---
 
